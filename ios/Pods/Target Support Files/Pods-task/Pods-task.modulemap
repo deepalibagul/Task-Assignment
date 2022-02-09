@@ -1,0 +1,6 @@
+module Pods_task {
+  umbrella header "Pods-task-umbrella.h"
+
+  export *
+  module * { export * }
+}
